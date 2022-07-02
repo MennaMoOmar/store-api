@@ -5,3 +5,6 @@
 !.elasticbeanstalk/*.global.yml
 
 .elasticbeanstalk/
+node_modules
+.env
+dist
